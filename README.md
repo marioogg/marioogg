@@ -6,6 +6,6 @@
 </div>
 
 # Learning:
-[![My Skills](https://skillicons.dev/icons?i=java,maven,pr,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,pr,ps,idea)](https://skillicons.dev)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/643024524513771521)](https://discord.com/users/643024524513771521)
