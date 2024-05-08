@@ -8,8 +8,4 @@
 # Learning:
 [![My Skills](https://skillicons.dev/icons?i=java,maven,pr,idea)](https://skillicons.dev)
 
-<p align="center">
-    <a href="https://discord.com/users/1079614475717586945" target="_blank" rel="nofollow">
-        <img src="https://lanyard.cnrad.dev/api/643024524513771521)](https://discord.com/users/643024524513771521" alt="Discord Presence" align="center">
-    </a>
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/643024524513771521)](https://discord.com/users/643024524513771521)
