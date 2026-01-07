@@ -14,13 +14,13 @@ public class marioogg extends JavaPlugin {
     public String getContactInfo() {
         switch (contactType){
             case BIOGRAPHY:
-                getLogger().log(Level.INFO, "https://e-z.bio/marioogg")
+                getLogger().log(Level.INFO, "https://e-z.bio/marioogg");
                 break;
             case DISCORD:
-                getLogger().log(Level.INFO, "marioogg")
+                getLogger().log(Level.INFO, "marioogg");
                 break;
             case EMAIL:
-                getLogger().log(Level.INFO, "mario@reals.lat")
+                getLogger().log(Level.INFO, "mario@reals.lat");
                 break;
     }
 }
