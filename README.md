@@ -1,6 +1,8 @@
 ### Hey 👋
 
-I'm Mario, I code useless things
+I'm Mario, I code useless things :)
+
+You can see my **actual** biography in https://e-z.bio/marioogg.
 
 ```java
 public class marioogg extends JavaPlugin {
