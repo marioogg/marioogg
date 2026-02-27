@@ -22,7 +22,7 @@ public class marioogg extends JavaPlugin {
                 getLogger().log(Level.INFO, "marioogg");
                 break;
             case EMAIL:
-                getLogger().log(Level.INFO, "mario@reals.lat");
+                getLogger().log(Level.INFO, "mario@marioogg.dev");
                 break;
     }
 }
