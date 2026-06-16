@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marioogg&label=Profile%20views&color=0e75b6&style=flat" alt="marioogg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marioogg" alt="marioogg" /></a> </p>
-
 - 🔭 I’m currently working on [Reals Network](https://discord.reals.lat)
 
 - 🌱 I’m currently learning **Backend web developing (node, spring)**
